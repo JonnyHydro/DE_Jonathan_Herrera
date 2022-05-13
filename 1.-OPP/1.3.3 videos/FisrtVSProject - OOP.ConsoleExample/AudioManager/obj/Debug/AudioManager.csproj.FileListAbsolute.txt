@@ -1,0 +1,6 @@
+C:\Users\Yoni\source\repos\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\Yoni\source\repos\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\Yoni\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\Yoni\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\Yoni\source\repos\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb
