@@ -1,0 +1,11 @@
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\obj\Debug\VehicleSounds.csproj.AssemblyReference.cache
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\obj\Debug\VehicleSounds.csproj.SuggestedBindingRedirects.cache
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\obj\Debug\VehicleSounds.csproj.CoreCompileInputs.cache
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\bin\Debug\VehicleSounds.exe.config
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\bin\Debug\VehicleSounds.exe
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\bin\Debug\VehicleSounds.pdb
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\bin\Debug\AudioManager.dll
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\bin\Debug\AudioManager.pdb
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\obj\Debug\VehicleSounds.csproj.CopyComplete
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\obj\Debug\VehicleSounds.exe
+C:\Users\trash\source\repos\VehicleSounds\VehicleSounds\obj\Debug\VehicleSounds.pdb

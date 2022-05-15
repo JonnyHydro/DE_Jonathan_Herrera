@@ -1,0 +1,6 @@
+C:\Users\trash\source\repos\VehicleSounds\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\trash\source\repos\VehicleSounds\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\trash\source\repos\VehicleSounds\AudioLibrary\obj\Debug\AudioLibrary.csproj.AssemblyReference.cache
+C:\Users\trash\source\repos\VehicleSounds\AudioLibrary\obj\Debug\AudioLibrary.csproj.CoreCompileInputs.cache
+C:\Users\trash\source\repos\VehicleSounds\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Users\trash\source\repos\VehicleSounds\AudioLibrary\obj\Debug\AudioLibrary.pdb
